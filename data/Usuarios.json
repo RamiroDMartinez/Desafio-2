@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"nombre": "Ramiro",
+		"apallido": "Martinez",
+		"edad": 40,
+		"curso": "Programacion Backend"
+	},
+	{
+		"id": 2,
+		"nombre": "Gabriela",
+		"apallido": "Barrios",
+		"edad": 26,
+		"curso": "Javascript"
+	},
+	{
+		"id": 3,
+		"nombre": "Ramiro",
+		"apallido": "Martinez",
+		"edad": 40,
+		"curso": "Programacion Backend"
+	},
+	{
+		"id": 4,
+		"nombre": "Gabriela",
+		"apallido": "Barrios",
+		"edad": 26,
+		"curso": "Javascript"
+	}
+]
